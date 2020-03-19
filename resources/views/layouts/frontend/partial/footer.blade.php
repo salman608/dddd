@@ -8,7 +8,7 @@
                        <div class="col-lg-4">
                            <div class="footer-widget footer-widget__about">
                                <a class="footer-widget__logo text-r" href="index.html" style="font-weight: bold;font-size:32px;color:white;">Mirpur IT</a>
-                               <p>Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the industry's stanard dummy text ever. </p>
+                               <p>Mirpur IT is one of the Supreme IT Farm in Bangladesh. Our Operations- 1.Digital Marketing, 2.App Developing, 3.Web Developing. We accomplish All the projects by Our proficient and skillful employees</p>
 
                            </div><!-- /.footer-widget -->
                        </div><!-- /.col-lg-4 -->
@@ -37,8 +37,7 @@
                            <div class="footer-widget footer-widget__subscribe">
                                <h3 class="footer-widget__title">Facebook Page</h3>
                                <form class="footer-widget__mc-form mc-form" data-url="MAILCHIMP__POPUP__FORM__URL">
-                                   <input type="text" name="email" placeholder="Email address">
-                                   <button type="submit" class="thm-btn footer-widget__mc-btn">Register Now</button>
+                                   <div class="fb-page" data-href="https://www.facebook.com/mirpuritoffical/" data-tabs="" data-width="" data-height="" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mirpuritoffical/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mirpuritoffical/">Mirpur_IT</a></blockquote></div>
                                </form>
                                <div class="mc-form__response"></div><!-- /.mc-form__response -->
                            </div><!-- /.footer-widget footer-widget__subscribe -->
@@ -85,7 +84,7 @@
            </nav>
            <div class="side-menu__sep"></div><!-- /.side-menu__sep -->
            <div class="side-menu__content">
-               <p>Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the industry's stanard dummy text ever. </p>
+               <p style="font-size:15px;">Mirpur IT is one of the Supreme IT Farm in Bangladesh. Our Operations- 1.Digital Marketing, 2.App Developing, 3.Web Developing. We accomplish All the projects by Our proficient and skillful employees </p>
 
                <div class="side-menu__social">
                    <a class="fab fa-facebook-f" href="https://www.facebook.com/mirpuritoffical/"></a>

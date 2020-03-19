@@ -4,7 +4,7 @@
     <div class="nav-header pull-left">
       <div class="logo-wrap">
         <a href="index.html">
-          <img class="brand-img" src="backend/dist/img/logo.png" alt="brand"/>
+          <!-- <img class="brand-img" src="{{asset('backend/dist/img/logo.png')}}" alt="brand"/> -->
           <span class="brand-text">Mirpurit</span>
         </a>
       </div>

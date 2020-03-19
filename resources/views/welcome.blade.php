@@ -103,8 +103,8 @@
                         <div class="col-lg-3 wow fadeInLeft mb-3" data-wow-duration="1500ms">
                             <div class="pricing-one__single">
                                 <div class="pricing-one__inner">
-                                    <img src="frontend/assets/images/shapes/pricing-line-1-1.png" alt="" class="pricing-one__line">
-                                    <img src="frontend/assets/images/shapes/pricing-icon-1-1.png" alt="" class="pricing-one__icon">
+                                  <img src="frontend/assets/images/shapes/pricing-line-1-1.png" alt="" class="pricing-one__line">
+                                  <img src="frontend/assets/images/shapes/pricing-icon-1-1.png" alt="" class="pricing-one__icon">
                                     <h3 style="font-size:25px;">E-commerce</h3>
                                     <p>25000 TK</p>
                                     <ul class="list-unstyled pricing-one__list">

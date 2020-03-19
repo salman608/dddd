@@ -102,6 +102,7 @@
 	<!-- Init JavaScript -->
 	<script src="{{asset('backend/dist/js/init.js')}}"></script>
 	<script src="{{asset('backend/dist/js/dashboard-data.js')}}"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js"></script>
 
 @stack('js')
 </body>
